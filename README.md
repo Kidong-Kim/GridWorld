@@ -1,1 +1,1 @@
-# Grid World - Reinforcement Learning
+# GridWorld - Reinforcement Learning
