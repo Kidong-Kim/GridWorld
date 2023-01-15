@@ -25,3 +25,4 @@ Crawler learns to crawl along positive x axis using Q-Learning.
 Pacman learns great strategies through approximate Q-learning in feature representation of game states.
 
 ![188_p3c](https://user-images.githubusercontent.com/54779918/83335925-60312a00-a2b0-11ea-86cb-01cd2716828c.gif)
+
